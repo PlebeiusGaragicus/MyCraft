@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "   ",
+    " D ",
+    "   "
+  ],
+  "key": {
+    "D": "minecraft:dirt"
+  },
+  "result": {
+    "id": "hellobrick:cluster_bomb",
+    "count": 1
+  }
+}

@@ -3,7 +3,8 @@
 	"package": "com.hellobrick.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+		"HarmlessPiglinsMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
